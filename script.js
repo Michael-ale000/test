@@ -130,9 +130,9 @@ function renderCountyMarkers(points) {
       .bindTooltip(p.Name)
     //   .bindPopup(popupHtml);
 
-    // ✅ NEW FEATURE: click marker -> go to facility HTML
     marker.on("click", () => {
-      const filename = facilityNameToHtmlFile(p.Name);
+      const match = allFacilities.find(f => f.Name === p.Name);
+      const filename = match ? match.filename : facilityNameToHtmlFile(p.Name);
       window.location.href = `facility/${filename}`;
     });
   });
@@ -289,5 +289,4 @@ document.addEventListener('click', (e) => {
 });
 
 initMap();
-loadCountyCoordinates();
-loadFacilities();
+loadFacilities().then(() => loadCountyCoordinates());
