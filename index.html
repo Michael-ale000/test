@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ICE Detention Facilities - Directory</title>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y0JF41VY73"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-Y0JF41VY73');
+    </script>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>ICE Detention Reports</h1>
+            <div class="stats" id="totalFacilities">Loading...</div>
+        </header>
+        <div class = "date-info-heading">Detention population data from Immigration and Customs Enforcement through:</div>
+        <div class = "date-info">February 5, 2026</div>
+        <div class="Search-from-map">
+            <div id = "map"></div>
+        </div>
+
+        <div class="search-container">
+            <div class="filter-row">
+                <div class="filter-group">
+                    <label for="stateSearch">State</label>
+                    <select id="stateSearch" class="filter-input">
+                        <option value="">All States</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="citySearch">City</label>
+                    <input type="text" id="citySearch" class="filter-input" placeholder="e.g., Natchez">
+                </div>
+                <div class="filter-group">
+                    <label for="zipSearch">Zip Code</label>
+                    <input type="text" id="zipSearch" class="filter-input" placeholder="e.g., 39120">
+                </div>
+            </div>
+            <input type="text" class="search-box" id="searchInput"
+                placeholder="Search facilities by name, location, or detention code..." autocomplete="off">
+            <div class="search-info">
+                <span id="searchResults"></span>
+                Search facilities by name, city, state, or detention location code.
+            </div>
+        </div>
+
+        <div class="facilities-container">
+            <div id="facilitiesContent" class="loading">
+                Loading facilities...
+            </div>
+        </div>
+
+        <footer class="footer">
+            <p>This directory provides transparency and information about ICE detention facilities across the United
+                States.</p>
+            <p>Questions? Email Adam at <a href="mailto:adam@relevant-research.com">adam@relevant-research.com</a></p>
+            <p>Developed by <a href="https://relevant-research.com/" target="_blank">Relevant Research</a></p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
