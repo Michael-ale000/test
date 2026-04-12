@@ -410,7 +410,7 @@
         "CurrentIntervalADP": 92
     },
     {
-        "Name": "CLINTON COUNTY JAIL",
+        "Name": "CLINTON COUNTY JAIL (NY)",
         "City": "Plattsburgh",
         "State": "NY",
         "Zip": "12901",
@@ -420,7 +420,7 @@
         "CurrentIntervalADP": 3
     },
     {
-        "Name": "CLINTON COUNTY JAIL",
+        "Name": "CLINTON COUNTY JAIL (IN)",
         "City": "Frankfort",
         "State": "IN",
         "Zip": "46041",
@@ -1850,7 +1850,7 @@
         "CurrentIntervalADP": 470
     },
     {
-        "Name": "POLK COUNTY JAIL",
+        "Name": "POLK COUNTY JAIL (FL)",
         "City": "Bartow",
         "State": "FL",
         "Zip": "33830",
@@ -1860,7 +1860,7 @@
         "CurrentIntervalADP": 1
     },
     {
-        "Name": "POLK COUNTY JAIL",
+        "Name": "POLK COUNTY JAIL (IA)",
         "City": "Des Moines",
         "State": "IA",
         "Zip": "50313",
