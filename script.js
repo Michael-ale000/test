@@ -209,13 +209,13 @@ function displayFacilities(facilities) {
                 <div class="facility-name">${facility.Name}</div>
                 <div class="facility-location">${facility.City}, ${facility.State} ${facility.Zip}</div>
                 <div class="facility-detloc">${facility.DETLOC}</div>
+                <div class="facility-latest-update">${facility.LatestUpdate}</div>
             </a>
         `;
     }).join('');
 
     container.innerHTML = `<div class="facilities-list">${facilitiesHTML}</div>`;
 }
-
 
 
 // Search functionality
