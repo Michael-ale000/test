@@ -131,7 +131,8 @@ function renderCountyMarkers(points) {
     //   .bindPopup(popupHtml);
 
     marker.on("click", () => {
-      const match = allFacilities.find(f => f.Name === p.Name);
+      const pNameUpper = (p.Name || "").toUpperCase();
+      const match = allFacilities.find(f => (f.Name || "").toUpperCase() === pNameUpper);
       const filename = match ? match.filename : facilityNameToHtmlFile(p.Name);
       window.location.href = `facility/${filename}`;
     });
