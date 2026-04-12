@@ -5,1942 +5,2468 @@
         "State": "US",
         "Zip": "00000",
         "DETLOC": "NOTES",
-        "filename": "notes.html"
+        "filename": "notes.html",
+        "LatestUpdate": null,
+        "CurrentIntervalADP": null
     },
     {
-        "Name": "ADAMS COUNTY CORRECTIONAL CENTER",
+        "Name": "Adams County Correctional Center",
         "City": "Natchez",
         "State": "MS",
         "Zip": "39120",
         "DETLOC": "ADAMSMS",
-        "filename": "ADAMSMS.html"
+        "filename": "ADAMSMS.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1969
     },
     {
-        "Name": "ADELANTO ICE PROCESSING CENTER",
+        "Name": "Adelanto Ice Processing Center",
         "City": "Adelanto",
         "State": "CA",
         "Zip": "92301",
         "DETLOC": "ADLNTCA",
-        "filename": "ADLNTCA.html"
+        "filename": "ADLNTCA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1575
     },
     {
-        "Name": "ALAMANCE COUNTY DETENTION FACILITY",
+        "Name": "Alamance County Detention Facility",
         "City": "Graham",
         "State": "NC",
         "Zip": "27253",
         "DETLOC": "ALAMCNC",
-        "filename": "ALAMCNC.html"
+        "filename": "ALAMCNC.html",
+        "LatestUpdate": "2025-11-10",
+        "CurrentIntervalADP": 22
     },
     {
-        "Name": "ALEXANDRIA STAGING FACILI",
+        "Name": "Alexandria Staging Facili",
         "City": "Alexandria",
         "State": "LA",
         "Zip": "71303",
         "DETLOC": "JENATLA",
-        "filename": "JENATLA.html"
+        "filename": "JENATLA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 394
     },
     {
-        "Name": "ALLEGANY COUNTY JAIL",
+        "Name": "Allegany County Jail",
         "City": "Belmont",
         "State": "NY",
         "Zip": "14813",
         "DETLOC": "ALLEGNY",
-        "filename": "ALLEGNY.html"
+        "filename": "ALLEGNY.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 9
     },
     {
-        "Name": "ALLEN PARISH PUBLIC SAFETY COMPLEX",
+        "Name": "Allen Parish Public Safety Complex",
         "City": "Oberlin",
         "State": "LA",
         "Zip": "70655",
         "DETLOC": "APPSCLA",
-        "filename": "APPSCLA.html"
+        "filename": "APPSCLA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 118
     },
     {
-        "Name": "ANCHORAGE CORRECTIONAL COMPLEX",
+        "Name": "Anchorage Correctional Complex",
         "City": "Anchorage",
         "State": "AK",
         "Zip": "99501",
         "DETLOC": "ANCHOAK",
-        "filename": "ANCHOAK.html"
+        "filename": "ANCHOAK.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 2
     },
     {
-        "Name": "BAKER CORRECTIONAL INSTITUTION",
+        "Name": "Baker Correctional Institution",
         "City": "Sanderson",
         "State": "FL",
         "Zip": "32087",
         "DETLOC": "FLBAKCI",
-        "filename": "FLBAKCI.html"
+        "filename": "FLBAKCI.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 929
     },
     {
-        "Name": "BAKER COUNTY SHERIFF DEPT.",
+        "Name": "Baker County Sheriff Dept.",
         "City": "Macclenny",
         "State": "FL",
         "Zip": "32063",
         "DETLOC": "BAKERFL",
-        "filename": "BAKERFL.html"
+        "filename": "BAKERFL.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 261
     },
     {
-        "Name": "BALDWIN COUNTY CORRECTIONAL CENTER",
+        "Name": "Baldwin County Correctional Center",
         "City": "Bay Minette",
         "State": "AL",
         "Zip": "36507",
         "DETLOC": "BALDWAL",
-        "filename": "BALDWAL.html"
+        "filename": "BALDWAL.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 20
     },
     {
-        "Name": "BERLIN FED. CORR. INST.",
+        "Name": "Berlin Fed. Corr. Inst.",
         "City": "Berlin",
         "State": "NH",
         "Zip": "03570",
         "DETLOC": "BOPBER",
-        "filename": "BOPBER.html"
+        "filename": "BOPBER.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 134
     },
     {
-        "Name": "BLUEBONNET DETENTION FACILITY",
+        "Name": "Bluebonnet Detention Facility",
         "City": "Anson",
         "State": "TX",
         "Zip": "79501",
         "DETLOC": "BLBNATX",
-        "filename": "BLBNATX.html"
+        "filename": "BLBNATX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 978
     },
     {
-        "Name": "BOONE COUNTY JAIL",
+        "Name": "Boone County Jail",
         "City": "Burlington",
         "State": "KY",
         "Zip": "41005",
         "DETLOC": "BOONEKY",
-        "filename": "BOONEKY.html"
+        "filename": "BOONEKY.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 217
     },
     {
-        "Name": "BOURBON CO DET CENTER",
+        "Name": "Bourbon Co Det Center",
         "City": "Paris",
         "State": "KY",
         "Zip": "40361",
         "DETLOC": "BOURBKY",
-        "filename": "BOURBKY.html"
+        "filename": "BOURBKY.html",
+        "LatestUpdate": "2025-12-26",
+        "CurrentIntervalADP": 0
     },
     {
-        "Name": "BROOKLYN MDC",
+        "Name": "Brooklyn Mdc",
         "City": "Brooklyn",
         "State": "NY",
         "Zip": "11232",
         "DETLOC": "BOPBRO",
-        "filename": "BOPBRO.html"
+        "filename": "BOPBRO.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 201
     },
     {
-        "Name": "BROOME COUNTY JAIL",
-        "City": "Binghampton",
+        "Name": "Broome County Jail",
+        "City": "Binghamton",
         "State": "NY",
         "Zip": "13905",
         "DETLOC": "BROMMNY",
-        "filename": "BROMMNY.html"
+        "filename": "BROMMNY.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 25
     },
     {
-        "Name": "BROWARD COUNTY JAIL",
+        "Name": "Broward County Jail",
         "City": "Ft.lauderdale",
         "State": "FL",
         "Zip": "33301",
         "DETLOC": "BROJAFL",
-        "filename": "BROJAFL.html"
+        "filename": "BROJAFL.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 4
     },
     {
-        "Name": "BROWARD TRANSITIONAL CENTER",
+        "Name": "Broward Transitional Center",
         "City": "Pompano Beach",
         "State": "FL",
         "Zip": "33073",
         "DETLOC": "WCCPBFL",
-        "filename": "WCCPBFL.html"
+        "filename": "WCCPBFL.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 693
     },
     {
-        "Name": "BUFFALO SERVICE PROCESSING CENTER",
+        "Name": "Buffalo Service Processing Center",
         "City": "Batavia",
         "State": "NY",
         "Zip": "14020",
         "DETLOC": "BTV",
-        "filename": "BTV.html"
+        "filename": "BTV.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 719
     },
     {
-        "Name": "BURLEIGH COUNTY",
+        "Name": "Burleigh County",
         "City": "Bismarck",
         "State": "ND",
         "Zip": "58502",
         "DETLOC": "BURLEND",
-        "filename": "BURLEND.html"
+        "filename": "BURLEND.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 5
     },
     {
-        "Name": "BUTLER COUNTY JAIL",
+        "Name": "Butler County Jail",
         "City": "Hamilton",
         "State": "OH",
         "Zip": "45011",
         "DETLOC": "BUTLEOH",
-        "filename": "BUTLEOH.html"
+        "filename": "BUTLEOH.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 351
     },
     {
-        "Name": "CALHOUN COUNTY CORRECTIONAL CENTER",
+        "Name": "Calhoun County Correctional Center",
         "City": "Battle Creek",
         "State": "MI",
         "Zip": "49014",
         "DETLOC": "CALHOMI",
-        "filename": "CALHOMI.html"
+        "filename": "CALHOMI.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 185
     },
     {
-        "Name": "CALIFORNIA CITY IMMIGRATION PROCESSING CENTER",
+        "Name": "California City Immigration Processing Center",
         "City": "California City",
         "State": "CA",
         "Zip": "93505",
         "DETLOC": "CACTYCA",
-        "filename": "CACTYCA.html"
+        "filename": "CACTYCA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1796
     },
     {
-        "Name": "CAMBRIA COUNTY JAIL, PA",
+        "Name": "Cambria County Prison",
         "City": "Ebensburg",
         "State": "PA",
         "Zip": "15931",
         "DETLOC": "CAMBRPA",
-        "filename": "CAMBRPA.html"
+        "filename": "CAMBRPA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 52
     },
     {
-        "Name": "CAMPBELL CO DET CTR",
+        "Name": "Campbell Co Det Ctr",
         "City": "Newport",
         "State": "KY",
         "Zip": "41071",
         "DETLOC": "CPBDCKY",
-        "filename": "CPBDCKY.html"
+        "filename": "CPBDCKY.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 145
     },
     {
-        "Name": "CAROLINE DETENTION FACILITY",
+        "Name": "Caroline Detention Facility",
         "City": "Bowling Green",
         "State": "VA",
         "Zip": "22427",
         "DETLOC": "CARDFVA",
-        "filename": "CARDFVA.html"
+        "filename": "CARDFVA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 340
     },
     {
-        "Name": "CASCADE_COUNTY_JAIL,_MT",
+        "Name": "Cascade County Jail, Mt",
         "City": "Great Falls",
         "State": "MT",
         "Zip": "59404",
         "DETLOC": "CASCAMT",
-        "filename": "CASCAMT.html"
+        "filename": "CASCAMT.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 3
     },
     {
-        "Name": "CASS COUNTY JAIL",
+        "Name": "Cass County Jail",
         "City": "Plattsmouth",
         "State": "NE",
         "Zip": "68048",
         "DETLOC": "CASSCNE",
-        "filename": "CASSCNE.html"
+        "filename": "CASSCNE.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 15
     },
     {
-        "Name": "CCA, FLORENCE CORRECTIONAL CENTER",
+        "Name": "Cca, Florence Correctional Center",
         "City": "Florence",
         "State": "AZ",
         "Zip": "85232",
         "DETLOC": "CCAFLAZ",
-        "filename": "CCAFLAZ.html"
+        "filename": "CCAFLAZ.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 497
     },
     {
-        "Name": "CENTRAL LOUISIANA ICE PROCESSING CENTER (CLIPC)",
+        "Name": "Central Louisiana Ice Processing Center (Clipc)",
         "City": "Jena",
         "State": "LA",
         "Zip": "71342",
         "DETLOC": "JENADLA",
-        "filename": "JENADLA.html"
+        "filename": "JENADLA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1217
     },
     {
-        "Name": "CHASE COUNTY JAIL",
+        "Name": "Chase County Jail",
         "City": "Cottonwood Fall",
         "State": "KS",
         "Zip": "66845",
         "DETLOC": "CHASEKS",
-        "filename": "CHASEKS.html"
+        "filename": "CHASEKS.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 125
     },
     {
-        "Name": "CHAVEZ DETENTION CENTER",
+        "Name": "Chavez Detention Center",
         "City": "Roswell",
         "State": "NM",
         "Zip": "88201",
         "DETLOC": "CHAVENM",
-        "filename": "CHAVENM.html"
+        "filename": "CHAVENM.html",
+        "LatestUpdate": "2026-01-22",
+        "CurrentIntervalADP": 2
     },
     {
-        "Name": "CHIPPEWA COUNTY SSM",
+        "Name": "Chippewa County Ssm",
         "City": "Sault Ste Marie",
         "State": "MI",
         "Zip": "49783",
         "DETLOC": "CHIPPMI",
-        "filename": "CHIPPMI.html"
+        "filename": "CHIPPMI.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 32
     },
     {
-        "Name": "CHITTENDEN REGIONAL CORRECTIONAL FACILITY",
+        "Name": "Chittenden Regional Correctional Facility",
         "City": "South Burlington",
         "State": "VT",
         "Zip": "05403",
         "DETLOC": "VTCHTDN",
-        "filename": "VTCHTDN.html"
+        "filename": "VTCHTDN.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 3
     },
     {
-        "Name": "CHRISTIAN COUNTY JAIL",
+        "Name": "Christian County Jail",
         "City": "Hopkinsville",
         "State": "KY",
         "Zip": "42240",
         "DETLOC": "CHRISKY",
-        "filename": "CHRISKY.html"
+        "filename": "CHRISKY.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 124
     },
     {
-        "Name": "CIBOLA COUNTY CORRECTIONAL CENTER",
+        "Name": "Cibola County Correctional Center",
         "City": "Milan",
         "State": "NM",
         "Zip": "87021",
         "DETLOC": "CIBOCNM",
-        "filename": "CIBOCNM.html"
+        "filename": "CIBOCNM.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 244
     },
     {
-        "Name": "CIMMARRON CORR FACILITY",
+        "Name": "Cimmarron Corr Facility",
         "City": "Cushing",
         "State": "OK",
         "Zip": "74023",
         "DETLOC": "OKCIMMC",
-        "filename": "OKCIMMC.html"
+        "filename": "OKCIMMC.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 591
     },
     {
-        "Name": "CLARK COUNTY JAIL (IN)",
+        "Name": "Clark County Jail (In)",
         "City": "Jeffersonville",
         "State": "IN",
         "Zip": "47130",
         "DETLOC": "CLARKIN",
-        "filename": "CLARKIN.html"
+        "filename": "CLARKIN.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 81
     },
     {
-        "Name": "CLAY COUNTY JUSTICE CENTER",
+        "Name": "Clay County Justice Center",
         "City": "Brazil",
         "State": "IN",
         "Zip": "47834",
         "DETLOC": "CLAYCIN",
-        "filename": "CLAYCIN.html"
+        "filename": "CLAYCIN.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 255
     },
     {
-        "Name": "CLINTON COUNTY CORRECTIONAL FACILITY",
+        "Name": "Clinton County Correctional Facility",
         "City": "Mcelhattan",
         "State": "PA",
         "Zip": "17748",
         "DETLOC": "CLINTPA",
-        "filename": "CLINTPA.html"
+        "filename": "CLINTPA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 92
     },
     {
-        "Name": "CLINTON COUNTY JAIL (NY)",
+        "Name": "Clinton County Jail",
         "City": "Plattsburgh",
         "State": "NY",
         "Zip": "12901",
         "DETLOC": "CLICONY",
-        "filename": "CLICONY.html"
+        "filename": "CLICONY.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 3
     },
     {
-        "Name": "CLINTON COUNTY JAIL (IN)",
+        "Name": "Clinton County Jail",
         "City": "Frankfort",
         "State": "IN",
         "Zip": "46041",
         "DETLOC": "CLINTIN",
-        "filename": "CLINTIN.html"
+        "filename": "CLINTIN.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 31
     },
     {
-        "Name": "COASTAL BEND DETENTION FACILITY",
+        "Name": "Coastal Bend Detention Facility",
         "City": "Robstown",
         "State": "TX",
         "Zip": "78380",
         "DETLOC": "CBENDTX",
-        "filename": "CBENDTX.html"
+        "filename": "CBENDTX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 51
     },
     {
-        "Name": "COLLIER COUNTY NAPLES JAIL CENTER",
+        "Name": "Collier County Naples Jail Center",
         "City": "Naples",
         "State": "FL",
         "Zip": "34112",
         "DETLOC": "COLLIFL",
-        "filename": "COLLIFL.html"
+        "filename": "COLLIFL.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 40
     },
     {
-        "Name": "CORR. CTR OF NORTHWEST OHIO",
+        "Name": "Corr. Ctr Of Northwest Ohio",
         "City": "Stryker",
         "State": "OH",
         "Zip": "43557",
         "DETLOC": "OHNORWE",
-        "filename": "OHNORWE.html"
+        "filename": "OHNORWE.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 86
     },
     {
-        "Name": "CROW WING COUNTY JAIL",
+        "Name": "Crow Wing County Jail",
         "City": "Brainerd",
         "State": "MN",
         "Zip": "56401",
         "DETLOC": "CROWGMN",
-        "filename": "CROWGMN.html"
+        "filename": "CROWGMN.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 18
     },
     {
-        "Name": "CUMBERLAND COUNTY JAIL",
+        "Name": "Cumberland County Jail",
         "City": "Portland",
         "State": "ME",
         "Zip": "04102",
         "DETLOC": "CUMBEME",
-        "filename": "CUMBEME.html"
+        "filename": "CUMBEME.html",
+        "LatestUpdate": "2026-01-22",
+        "CurrentIntervalADP": 64
     },
     {
-        "Name": "DAKOTA COUNTY JAIL",
+        "Name": "Dakota County Jail",
         "City": "Dakota City",
         "State": "NE",
         "Zip": "68731",
         "DETLOC": "DAKOTNE",
-        "filename": "DAKOTNE.html"
+        "filename": "DAKOTNE.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 37
     },
     {
-        "Name": "DALLAS COUNTY JAIL - LEW STERRETT JUSTICE CENTER",
+        "Name": "Dallas County Jail - Lew Sterrett Justice Center",
         "City": "Dallas",
         "State": "TX",
         "Zip": "75202",
         "DETLOC": "DALCOTX",
-        "filename": "DALCOTX.html"
+        "filename": "DALCOTX.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 1
     },
     {
-        "Name": "DAVIESS COUNTY DETENTION",
+        "Name": "Daviess County Detention",
         "City": "Owensboro",
         "State": "KY",
         "Zip": "42303",
-        "DETLOC": "DAVCOKY",
-        "filename": "DAVCOKY.html"
+        "DETLOC": "DVCSDKY",
+        "filename": "DVCSDKY.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 68
     },
     {
-        "Name": "DAVIS COUNTY",
+        "Name": "Davis County",
         "City": "Farmington",
         "State": "UT",
         "Zip": "84025",
         "DETLOC": "DAVISUT",
-        "filename": "DAVISUT.html"
+        "filename": "DAVISUT.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 6
     },
     {
-        "Name": "DELANEY HALL DETENTION FACILITY",
+        "Name": "Delaney Hall Detention Facility",
         "City": "Newark",
         "State": "NJ",
         "Zip": "07105",
         "DETLOC": "DHDFNJ",
-        "filename": "DHDFNJ.html"
+        "filename": "DHDFNJ.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 852
     },
     {
-        "Name": "DENVER CONTRACT DETENTION FACILITY",
+        "Name": "Denver Contract Detention Facility",
         "City": "Aurora",
         "State": "CO",
         "Zip": "80010",
         "DETLOC": "DENICDF",
-        "filename": "DENICDF.html"
+        "filename": "DENICDF.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1283
     },
     {
-        "Name": "DEPARTMENT OF CORRECTIONS HAGATNA",
+        "Name": "Department Of Corrections Hagatna",
         "City": "Hagatna",
         "State": "GU",
         "Zip": "96910",
         "DETLOC": "GUDOCHG",
-        "filename": "GUDOCHG.html"
+        "filename": "GUDOCHG.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 22
     },
     {
-        "Name": "DESERT VIEW ANNEX",
+        "Name": "Desert View Annex",
         "City": "Adelanto",
         "State": "CA",
         "Zip": "92301",
         "DETLOC": "CADESVI",
-        "filename": "CADESVI.html"
+        "filename": "CADESVI.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 447
     },
     {
-        "Name": "DIAMONDBACK CORR FACILITY",
+        "Name": "Diamondback Corr Facility",
         "City": "Watonga",
         "State": "OK",
         "Zip": "73772",
         "DETLOC": "OKDBACK",
-        "filename": "OKDBACK.html"
+        "filename": "OKDBACK.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 697
     },
     {
-        "Name": "DILLEY IMMIGRATION PROCESSING CENTER",
+        "Name": "Dilley Immigration Processing Center",
         "City": "Dilley",
         "State": "TX",
         "Zip": "78017",
         "DETLOC": "STFRCTX",
-        "filename": "STFRCTX.html"
+        "filename": "STFRCTX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 249
     },
     {
-        "Name": "DILLEY PROCESSING SINGLE ADULT FEMALE",
+        "Name": "Dilley Processing Single Adult Female",
         "City": "Dilley",
         "State": "TX",
         "Zip": "78017",
         "DETLOC": "DILLSAF",
-        "filename": "DILLSAF.html"
+        "filename": "DILLSAF.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 287
     },
     {
-        "Name": "DODGE COUNTY JAIL",
+        "Name": "Dodge County Jail",
         "City": "Juneau",
         "State": "WI",
         "Zip": "53039",
         "DETLOC": "DODGEWI",
-        "filename": "DODGEWI.html"
+        "filename": "DODGEWI.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 112
     },
     {
-        "Name": "DONA ANA COUNTY DETENTION CENTER",
+        "Name": "Dona Ana County Detention Center",
         "City": "Las Cruces",
         "State": "NM",
         "Zip": "88004",
         "DETLOC": "DONAANM",
-        "filename": "DONAANM.html"
+        "filename": "DONAANM.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 1
     },
     {
-        "Name": "DOUGLAS COUNTY",
+        "Name": "Douglas County",
         "City": "Superior",
         "State": "WI",
         "Zip": "54880",
         "DETLOC": "DOUGLWI",
-        "filename": "DOUGLWI.html"
+        "filename": "DOUGLWI.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 28
     },
     {
-        "Name": "EAST HIDALGO DETENTION CENTER",
+        "Name": "East Hidalgo Detention Center",
         "City": "La Villa",
         "State": "TX",
         "Zip": "78562",
         "DETLOC": "EHDLGTX",
-        "filename": "EHDLGTX.html"
+        "filename": "EHDLGTX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 2
     },
     {
-        "Name": "EASTERN REGIONAL JAIL",
+        "Name": "Eastern Regional Jail",
         "City": "Martinsburg",
         "State": "WV",
         "Zip": "25401",
         "DETLOC": "WVEASTR",
-        "filename": "WVEASTR.html"
+        "filename": "WVEASTR.html",
+        "LatestUpdate": "2026-01-22",
+        "CurrentIntervalADP": 20
     },
     {
-        "Name": "EDEN DETENTION CTR",
+        "Name": "Eden Detention Ctr",
         "City": "Eden",
         "State": "TX",
         "Zip": "76837",
         "DETLOC": "EDNDCTX",
-        "filename": "EDNDCTX.html"
+        "filename": "EDNDCTX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 644
     },
     {
-        "Name": "EL PASO COUNTY DETENTION FACILITY",
+        "Name": "El Paso County Detention Facility",
         "City": "El Paso",
         "State": "TX",
         "Zip": "79901",
         "DETLOC": "EPCDFTX",
-        "filename": "EPCDFTX.html"
+        "filename": "EPCDFTX.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 2
     },
     {
-        "Name": "EL PASO SERVICE PROCESSING CENTER",
+        "Name": "El Paso Service Processing Center",
         "City": "El Paso",
         "State": "TX",
         "Zip": "79925",
         "DETLOC": "EPC",
-        "filename": "EPC.html"
+        "filename": "EPC.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 786
     },
     {
-        "Name": "EL PASO SOFT SIDED FACILITY",
+        "Name": "El Paso Soft Sided Facility",
         "City": "El Paso",
         "State": "TX",
         "Zip": "79934",
         "DETLOC": "EPSSFTX",
-        "filename": "EPSSFTX.html"
+        "filename": "EPSSFTX.html",
+        "LatestUpdate": "2025-08-18",
+        "CurrentIntervalADP": 874
     },
     {
-        "Name": "EL VALLE DETENTION FACILITY",
+        "Name": "El Valle Detention Facility",
         "City": "Raymondville",
         "State": "TX",
         "Zip": "78580",
         "DETLOC": "ELVDFTX",
-        "filename": "ELVDFTX.html"
+        "filename": "ELVDFTX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 881
     },
     {
-        "Name": "ELIZABETH CONTRACT DETENTION FACILITY",
+        "Name": "Elizabeth Contract Detention Facility",
         "City": "Elizabeth",
         "State": "NJ",
         "Zip": "07201",
         "DETLOC": "ELZICDF",
-        "filename": "ELZICDF.html"
+        "filename": "ELZICDF.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 286
     },
     {
-        "Name": "ELMORE COUNTY JAIL",
+        "Name": "Elmore County Jail",
         "City": "Mountain Home",
         "State": "ID",
         "Zip": "83647",
         "DETLOC": "ELMORID",
-        "filename": "ELMORID.html"
+        "filename": "ELMORID.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 8
     },
     {
-        "Name": "ELOY FEDERAL CONTRACT FACILITY",
+        "Name": "Eloy Federal Contract Facility",
         "City": "Eloy",
         "State": "AZ",
         "Zip": "85131",
         "DETLOC": "EAZ",
-        "filename": "EAZ.html"
+        "filename": "EAZ.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1310
     },
     {
-        "Name": "ERIE COUNTY JAIL",
+        "Name": "Erie County Jail",
         "City": "Erie",
         "State": "PA",
         "Zip": "16503",
         "DETLOC": "ERICOPA",
-        "filename": "ERICOPA.html"
+        "filename": "ERICOPA.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 32
     },
     {
-        "Name": "ERO EL PASO CAMP EAST MONTANA",
+        "Name": "Ero El Paso Camp East Montana",
         "City": "El Paso",
         "State": "TX",
         "Zip": "79936",
-        "DETLOC": "EROFCB",
-        "filename": "EROFCB.html"
+        "DETLOC": "EROELP",
+        "filename": "EROELP.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1480
     },
     {
-        "Name": "ETOWAH COUNTY JAIL",
+        "Name": "Etowah County Jail",
         "City": "Gadsden",
         "State": "AL",
         "Zip": "35901",
         "DETLOC": "ETOWAAL",
-        "filename": "ETOWAAL.html"
+        "filename": "ETOWAAL.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 93
     },
     {
-        "Name": "FARMVILLE DETENTION CENTER",
+        "Name": "Farmville Detention Center",
         "City": "Farmville",
         "State": "VA",
         "Zip": "23901",
         "DETLOC": "FRMVLVA",
-        "filename": "FRMVLVA.html"
+        "filename": "FRMVLVA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 630
     },
     {
-        "Name": "FAYETTE COUNTY DETENTION CENTER",
+        "Name": "Fayette County Detention Center",
         "City": "Lexington",
         "State": "KY",
         "Zip": "40510",
         "DETLOC": "FAYETKY",
-        "filename": "FAYETKY.html"
+        "filename": "FAYETKY.html",
+        "LatestUpdate": "2026-01-22",
+        "CurrentIntervalADP": 2
     },
     {
-        "Name": "FCI ATLANTA",
+        "Name": "Fci Atlanta",
         "City": "Atlanta",
         "State": "GA",
         "Zip": "30315",
         "DETLOC": "BOPATL",
-        "filename": "BOPATL.html"
+        "filename": "BOPATL.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 98
     },
     {
-        "Name": "FDC PHILADELPHIA",
+        "Name": "Fdc Philadelphia",
         "City": "Philadelphia",
         "State": "PA",
         "Zip": "19106",
         "DETLOC": "BOPPHL",
-        "filename": "BOPPHL.html"
+        "filename": "BOPPHL.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 52
     },
     {
-        "Name": "FINNEY COUNTY JAIL",
+        "Name": "Finney County Jail",
         "City": "Garden City",
         "State": "KS",
         "Zip": "67846",
         "DETLOC": "FINNEKS",
-        "filename": "FINNEKS.html"
+        "filename": "FINNEKS.html",
+        "LatestUpdate": "2026-01-22",
+        "CurrentIntervalADP": 2
     },
     {
-        "Name": "FLORENCE SERVICE PROCESSING CENTER",
+        "Name": "Flagler County Jail",
+        "City": "Bunnell",
+        "State": "FL",
+        "Zip": "32110",
+        "DETLOC": "FLGLRFL",
+        "filename": "FLGLRFL.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 25
+    },
+    {
+        "Name": "Florence Service Processing Center",
         "City": "Florence",
         "State": "AZ",
         "Zip": "85132",
         "DETLOC": "FLO",
-        "filename": "FLO.html"
+        "filename": "FLO.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 312
     },
     {
-        "Name": "FLORENCE STAGING FACILITY",
+        "Name": "Florence Staging Facility",
         "City": "Florence",
         "State": "AZ",
         "Zip": "85232",
         "DETLOC": "FSF",
-        "filename": "FSF.html"
+        "filename": "FSF.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 436
     },
     {
-        "Name": "FLORIDA SOFT-SIDED FACILITY",
+        "Name": "Florida Soft-Sided Facility",
         "City": "Ochopee",
         "State": "FL",
         "Zip": "34141",
         "DETLOC": "FLDSSFS",
-        "filename": "FLDSSFS.html"
+        "filename": "FLDSSFS.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1457
     },
     {
-        "Name": "FLOYD COUNTY JAIL",
+        "Name": "Floyd County Jail",
         "City": "Rome",
         "State": "GA",
         "Zip": "30161",
         "DETLOC": "FLOYDGA",
-        "filename": "FLOYDGA.html"
+        "filename": "FLOYDGA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1
     },
     {
-        "Name": "FOLKSTON ANNEX IPC",
+        "Name": "Folkston Annex Ipc",
         "City": "Folkston",
         "State": "GA",
         "Zip": "31537",
         "DETLOC": "FIPCAGA",
-        "filename": "FIPCAGA.html"
+        "filename": "FIPCAGA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 279
     },
     {
-        "Name": "FOLKSTON MAIN IPC",
+        "Name": "Folkston D Ray Ice Processing Ctr",
+        "City": "Folkston",
+        "State": "GA",
+        "Zip": "31537",
+        "DETLOC": "FOLKIPC",
+        "filename": "FOLKIPC.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1374
+    },
+    {
+        "Name": "Folkston Main Ipc",
         "City": "Folkston",
         "State": "GA",
         "Zip": "31537",
         "DETLOC": "FIPCMGA",
-        "filename": "FIPCMGA.html"
+        "filename": "FIPCMGA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 644
     },
     {
-        "Name": "FOLKSTON D RAY ICE PROCESSING CTR",
-        "City": "Folkston",
-        "State": "GA",
-        "Zip": "31537",
-        "DETLOC": "FIPCDGA",
-        "filename": "FIPCDGA.html"
-    },
-    {
-        "Name": "FREEBORN COUNTY ADULT DETENTION CENTER",
+        "Name": "Freeborn County Adult Detention Center",
         "City": "Albert Lea",
         "State": "MN",
         "Zip": "56007",
         "DETLOC": "FREEBMN",
-        "filename": "FREEBMN.html"
+        "filename": "FREEBMN.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 37
     },
     {
-        "Name": "FULTON CO JAIL INDIANA",
+        "Name": "Fulton Co Jail Indiana",
         "City": "Rochester",
         "State": "IN",
         "Zip": "46975",
         "DETLOC": "FULCOIN",
-        "filename": "FULCOIN.html"
+        "filename": "FULCOIN.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 9
     },
     {
-        "Name": "GEAUGA COUNTY JAIL",
+        "Name": "Geauga County Jail",
         "City": "Chardon",
         "State": "OH",
         "Zip": "44024",
         "DETLOC": "GEAUGOH",
-        "filename": "GEAUGOH.html"
+        "filename": "GEAUGOH.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 16
     },
     {
-        "Name": "GLADES COUNTY DETENTION CENTER",
+        "Name": "Glades County Detention Center",
         "City": "Moore Haven",
         "State": "FL",
         "Zip": "33471",
         "DETLOC": "GLADEFL",
-        "filename": "GLADEFL.html"
+        "filename": "GLADEFL.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 478
     },
     {
-        "Name": "GOLDEN STATE ANNEX",
+        "Name": "Golden State Annex",
         "City": "Mcfarland",
         "State": "CA",
         "Zip": "93250",
         "DETLOC": "GLDSACA",
-        "filename": "GLDSACA.html"
+        "filename": "GLDSACA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 565
     },
     {
-        "Name": "GRAND FORKS COUNTY CORRECTIONAL FACILITY",
+        "Name": "Grand Forks County Correctional Facility",
         "City": "Grand Forks",
         "State": "ND",
         "Zip": "58203",
         "DETLOC": "GFCORND",
-        "filename": "GFCORND.html"
+        "filename": "GFCORND.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 20
     },
     {
-        "Name": "GRAYSON COUNTY JAIL",
+        "Name": "Grayson County Jail",
         "City": "Leitchfield",
         "State": "KY",
         "Zip": "42754",
         "DETLOC": "GRAYSKY",
-        "filename": "GRAYSKY.html"
+        "filename": "GRAYSKY.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 152
     },
     {
-        "Name": "GREENE COUNTY JAIL",
+        "Name": "Greene County Jail",
         "City": "Springfield",
         "State": "MO",
         "Zip": "65802",
         "DETLOC": "GREENMO",
-        "filename": "GREENMO.html"
+        "filename": "GREENMO.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 270
     },
     {
-        "Name": "GUAYNABO MDC (SAN JUAN)",
+        "Name": "Guaynabo Mdc (San Juan)",
         "City": "San Juan",
         "State": "PR",
-        "Zip": "00939",
+        "Zip": "939",
         "DETLOC": "BOPGUA",
-        "filename": "BOPGUA.html"
+        "filename": "BOPGUA.html",
+        "LatestUpdate": "2025-06-23",
+        "CurrentIntervalADP": 6
     },
     {
-        "Name": "HANCOCK COUNTY PUBLIC SAFETY COMPLEX",
-        "City": "Bay St. Louis",
-        "State": "MS",
-        "Zip": "39520",
-        "DETLOC": "HCPSCMS",
-        "filename": "HCPSCMS.html"
-    },
-    {
-        "Name": "HALL COUNTY DEPARTMENT OF CORRECTIONS",
+        "Name": "Hall County Department Of Corrections",
         "City": "Grand Island",
         "State": "NE",
         "Zip": "68801",
         "DETLOC": "HASHENE",
-        "filename": "HASHENE.html"
+        "filename": "HASHENE.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 11
     },
     {
-        "Name": "HARDIN COUNTY JAIL",
+        "Name": "Hancock County Public Safety Complex",
+        "City": "Bay St. Louis",
+        "State": "MS",
+        "Zip": "39520",
+        "DETLOC": "HCPSCMS",
+        "filename": "HCPSCMS.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 26
+    },
+    {
+        "Name": "Hardin County Jail",
         "City": "Eldora",
         "State": "IA",
         "Zip": "50627",
         "DETLOC": "HARDJIA",
-        "filename": "HARDJIA.html"
+        "filename": "HARDJIA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 46
     },
     {
-        "Name": "HENDERSON DETENTION",
+        "Name": "Henderson Detention",
         "City": "Henderson",
         "State": "NV",
         "Zip": "89015",
         "DETLOC": "HENDENV",
-        "filename": "HENDENV.html"
+        "filename": "HENDENV.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 85
     },
     {
-        "Name": "HILLSBOROUGH COUNTY JAIL",
+        "Name": "Hillsborough County Jail",
         "City": "Tampa",
         "State": "FL",
         "Zip": "33619",
         "DETLOC": "HICOJFL",
-        "filename": "HICOJFL.html"
+        "filename": "HICOJFL.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 6
     },
     {
-        "Name": "HONOLULU FEDERAL DETENTION CENTER",
+        "Name": "Honolulu Federal Detention Center",
         "City": "Honolulu",
         "State": "HI",
         "Zip": "96819",
         "DETLOC": "BOPHON",
-        "filename": "BOPHON.html"
+        "filename": "BOPHON.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 60
     },
     {
-        "Name": "HOPKINS COUNTY JAIL",
+        "Name": "Hopkins County Jail",
         "City": "Madisonville",
         "State": "KY",
         "Zip": "42431",
         "DETLOC": "HPKNSKY",
-        "filename": "HPKNSKY.html"
+        "filename": "HPKNSKY.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 185
     },
     {
-        "Name": "HOUSTON CONTRACT DETENTION FACILITY",
+        "Name": "Houston Contract Detention Facility",
         "City": "Houston",
         "State": "TX",
         "Zip": "77032",
         "DETLOC": "HOUICDF",
-        "filename": "HOUICDF.html"
+        "filename": "HOUICDF.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 757
     },
     {
-        "Name": "IAH SECURE ADULT DETENTION FACILITY (POLK)",
+        "Name": "Iah Secure Adult Detention Facility (Polk)",
         "City": "Livingston",
         "State": "TX",
         "Zip": "77351",
         "DETLOC": "POLKCTX",
-        "filename": "POLKCTX.html"
+        "filename": "POLKCTX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 860
     },
     {
-        "Name": "IMPERIAL REGIONAL DETENTION FACILITY",
+        "Name": "Imperial Regional Detention Facility",
         "City": "Calexico",
         "State": "CA",
         "Zip": "92231",
         "DETLOC": "IRADFCA",
-        "filename": "IRADFCA.html"
+        "filename": "IRADFCA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 620
     },
     {
-        "Name": "IRWIN COUNTY DETENTION CENTER",
+        "Name": "Irwin County Detention Center",
         "City": "Ocilla",
         "State": "GA",
         "Zip": "31772",
         "DETLOC": "IRWINGA",
-        "filename": "IRWINGA.html"
+        "filename": "IRWINGA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 252
     },
     {
-        "Name": "JACKSON PARISH CORRECTIONAL CENTER",
+        "Name": "Jackson Parish Correctional Center",
         "City": "Jonesboro",
         "State": "LA",
         "Zip": "71251",
         "DETLOC": "JKPCCLA",
-        "filename": "JKPCCLA.html"
+        "filename": "JKPCCLA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1180
     },
     {
-        "Name": "JEFFERSON COUNTY JAIL",
+        "Name": "Jefferson County Jail",
         "City": "Rigby",
         "State": "ID",
         "Zip": "83442",
         "DETLOC": "JEFFEID",
-        "filename": "JEFFEID.html"
+        "filename": "JEFFEID.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 8
     },
     {
-        "Name": "JOE CORLEY PROCESSING CTR",
+        "Name": "Joe Corley Processing Ctr",
         "City": "Conroe",
         "State": "TX",
         "Zip": "77301",
         "DETLOC": "JCRLYTX",
-        "filename": "JCRLYTX.html"
+        "filename": "JCRLYTX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 962
     },
     {
-        "Name": "JTF CAMP SIX",
+        "Name": "Jtf Camp Six",
         "City": "Fpo",
         "State": "FL",
         "Zip": "34009",
         "DETLOC": "GTMODCU",
-        "filename": "GTMODCU.html"
+        "filename": "GTMODCU.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 9
     },
     {
-        "Name": "KANDIYOHI COUNTY JAIL",
+        "Name": "Kandiyohi County Jail",
         "City": "Willmar",
         "State": "MN",
         "Zip": "56201",
         "DETLOC": "KANDIMN",
-        "filename": "KANDIMN.html"
+        "filename": "KANDIMN.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 92
     },
     {
-        "Name": "KARNES COUNTY CORRECTIONAL CENTER",
+        "Name": "Karnes County Correctional Center",
         "City": "Karnes City",
         "State": "TX",
         "Zip": "78118",
         "DETLOC": "KARNETX",
-        "filename": "KARNETX.html"
+        "filename": "KARNETX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 2
     },
     {
-        "Name": "KARNES COUNTY IMMIGRATION PROCESSING CENTER",
+        "Name": "Karnes County Immigration Processing Center",
         "City": "Karnes City",
         "State": "TX",
         "Zip": "78118",
         "DETLOC": "KRNRCTX",
-        "filename": "KRNRCTX.html"
+        "filename": "KRNRCTX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1064
     },
     {
-        "Name": "KAY CO JUSTICE FACILITY",
+        "Name": "Kay Co Justice Facility",
         "City": "Newkirk",
         "State": "OK",
         "Zip": "74647",
         "DETLOC": "KCOJFOK",
-        "filename": "KCOJFOK.html"
+        "filename": "KCOJFOK.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 145
     },
     {
-        "Name": "KENTON COUNTY JAIL",
+        "Name": "Kenton County Jail",
         "City": "Covington",
         "State": "KY",
         "Zip": "41017",
         "DETLOC": "KENTOKY",
-        "filename": "KENTOKY.html"
+        "filename": "KENTOKY.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 131
     },
     {
-        "Name": "KNOX COUNTY DETENTION FACILITY",
+        "Name": "Knox County Detention Facility",
         "City": "Knoxville",
         "State": "TN",
         "Zip": "37918",
         "DETLOC": "KNXDFTN",
-        "filename": "KNXDFTN.html"
+        "filename": "KNXDFTN.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 22
     },
     {
-        "Name": "KROME NORTH SERVICE PROCESSING CENTER",
+        "Name": "Krome North Service Processing Center",
         "City": "Miami",
         "State": "FL",
         "Zip": "33194",
         "DETLOC": "KRO",
-        "filename": "KRO.html"
+        "filename": "KRO.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 863
     },
     {
-        "Name": "LA PAZ COUNTY ADULT DETENTION FACILITY",
+        "Name": "La Paz County Adult Detention Facility",
         "City": "Parker",
         "State": "AZ",
         "Zip": "85344",
         "DETLOC": "LAPAZAZ",
-        "filename": "LAPAZAZ.html"
+        "filename": "LAPAZAZ.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 1
     },
     {
-        "Name": "LA SALLE COUNTY REGIONAL DETENTION CENTER",
+        "Name": "La Salle County Regional Detention Center",
         "City": "Encinal",
         "State": "TX",
         "Zip": "78019",
         "DETLOC": "LSRDCTX",
-        "filename": "LSRDCTX.html"
+        "filename": "LSRDCTX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 120
     },
     {
-        "Name": "LAFAYETTE PARISH CORRECTIONAL CENTER",
+        "Name": "Lafayette Parish Correctional Center",
         "City": "Lafayette",
         "State": "LA",
         "Zip": "70501",
         "DETLOC": "LAFAYLA",
-        "filename": "LAFAYLA.html"
+        "filename": "LAFAYLA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 6
     },
     {
-        "Name": "LAKE COUNTY JAIL",
+        "Name": "Lake County Jail",
         "City": "Tavares",
         "State": "FL",
         "Zip": "32778",
         "DETLOC": "LAKCOFL",
-        "filename": "LAKCOFL.html"
+        "filename": "LAKCOFL.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 1
     },
     {
-        "Name": "LARAMIE COUNTY JAIL",
+        "Name": "Laramie County Jail",
         "City": "Cheyenne",
         "State": "WY",
         "Zip": "82001",
         "DETLOC": "LARCOWY",
-        "filename": "LARCOWY.html"
+        "filename": "LARCOWY.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 4
     },
     {
-        "Name": "LAREDO PROCESSING CENTER",
+        "Name": "Laredo Processing Center",
         "City": "Laredo",
         "State": "TX",
         "Zip": "78041",
         "DETLOC": "LRDICDF",
-        "filename": "LRDICDF.html"
+        "filename": "LRDICDF.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 320
     },
     {
-        "Name": "LAUREL COUNTY CORRECTIONAL CENTER",
+        "Name": "Laurel County Correctional Center",
         "City": "London",
         "State": "KY",
         "Zip": "40744",
         "DETLOC": "LAURELKY",
-        "filename": "LAURELKY.html"
+        "filename": "LAURELKY.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 2
     },
     {
-        "Name": "LAWRENCE COUNTY",
+        "Name": "Lawrence County",
         "City": "Deadwood",
         "State": "SD",
         "Zip": "57732",
         "DETLOC": "LAWRESD",
-        "filename": "LAWRESD.html"
+        "filename": "LAWRESD.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 14
     },
     {
-        "Name": "LEAVENWORTH US PENITENTIARY",
+        "Name": "Leavenworth Us Penitentiary",
         "City": "Leavenworth",
         "State": "KS",
         "Zip": "66048",
         "DETLOC": "BOPLVN",
-        "filename": "BOPLVN.html"
+        "filename": "BOPLVN.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 75
     },
     {
-        "Name": "LEWISBURG US PENITENTIARY",
+        "Name": "Lewisburg Us Penitentiary",
         "City": "Lewisburg",
         "State": "PA",
         "Zip": "17837",
         "DETLOC": "BOPLEW",
-        "filename": "BOPLEW.html"
+        "filename": "BOPLEW.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 175
     },
     {
-        "Name": "LEXINGTON COUNTY JAIL",
+        "Name": "Lexington County Jail",
         "City": "Lexington",
         "State": "SC",
         "Zip": "29072",
         "DETLOC": "LEXINSC",
-        "filename": "LEXINSC.html"
+        "filename": "LEXINSC.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 7
     },
     {
-        "Name": "LIMESTONE COUNTY DETENTION CENTER",
+        "Name": "Liberty County Jail",
+        "City": "Bristol",
+        "State": "FL",
+        "Zip": "32321",
+        "DETLOC": "LIBCOTX",
+        "filename": "LIBCOTX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 9
+    },
+    {
+        "Name": "Limestone County Detention Center",
         "City": "Groesbeck",
         "State": "TX",
         "Zip": "76642",
         "DETLOC": "LIMESTX",
-        "filename": "LIMESTX.html"
+        "filename": "LIMESTX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 262
     },
     {
-        "Name": "LINCOLN COUNTY JAIL",
+        "Name": "Lincoln County Jail",
         "City": "North Platte",
         "State": "NE",
         "Zip": "69101",
         "DETLOC": "LINCONE",
-        "filename": "LINCONE.html"
+        "filename": "LINCONE.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 42
     },
     {
-        "Name": "LINN COUNTY JAIL",
+        "Name": "Linn County Jail",
         "City": "Cedar Rapids",
         "State": "IA",
         "Zip": "52401",
         "DETLOC": "LINNJIA",
-        "filename": "LINNJIA.html"
+        "filename": "LINNJIA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 50
     },
     {
-        "Name": "LOGAN COUNTY JAIL",
+        "Name": "Logan County Jail",
         "City": "Guthrie",
         "State": "OK",
         "Zip": "73044",
         "DETLOC": "LOGANOK",
-        "filename": "LOGANOK.html"
+        "filename": "LOGANOK.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 6
     },
     {
-        "Name": "LOUISIANA ICE PROCESSING",
+        "Name": "Louisiana Ice Processing",
         "City": "Angola",
         "State": "LA",
         "Zip": "70712",
         "DETLOC": "LICEPLA",
-        "filename": "LICEPLA.html"
+        "filename": "LICEPLA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 187
     },
     {
-        "Name": "LUBBOCK COUNTY DETENTION CENTER",
+        "Name": "Lubbock County Detention Center",
         "City": "Lubbock",
         "State": "TX",
         "Zip": "79401",
         "DETLOC": "LUBBOTX",
-        "filename": "LUBBOTX.html"
+        "filename": "LUBBOTX.html",
+        "LatestUpdate": "2026-01-22",
+        "CurrentIntervalADP": 2
     },
     {
-        "Name": "MADISON COUNTY JAIL",
+        "Name": "Madison County Jail",
         "City": "Canton",
         "State": "MS",
         "Zip": "39046",
         "DETLOC": "MADISMS",
-        "filename": "MADISMS.html"
+        "filename": "MADISMS.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 6
     },
     {
-        "Name": "MAHONING COUNTY JAIL",
+        "Name": "Mahoning County Jail",
         "City": "Youngstown",
         "State": "OH",
         "Zip": "44503",
         "DETLOC": "MAHONOH",
-        "filename": "MAHONOH.html"
+        "filename": "MAHONOH.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 101
     },
     {
-        "Name": "MARION COUNTY JAIL",
+        "Name": "Marion County Jail",
         "City": "Indianapolis",
         "State": "IN",
         "Zip": "46203",
         "DETLOC": "MARIOIN",
-        "filename": "MARIOIN.html"
+        "filename": "MARIOIN.html",
+        "LatestUpdate": "2026-01-22",
+        "CurrentIntervalADP": 38
     },
     {
-        "Name": "MARTIN COUNTY JAIL",
+        "Name": "Martin County Jail",
         "City": "Stuart",
         "State": "FL",
         "Zip": "34994",
         "DETLOC": "MARTIFL",
-        "filename": "MARTIFL.html"
+        "filename": "MARTIFL.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 7
     },
     {
-        "Name": "MCCOOK DETENTION CENTER",
-        "City": "McCook",
+        "Name": "Mccook Detention Center",
+        "City": "Mccook",
         "State": "NE",
         "Zip": "69001",
         "DETLOC": "MCCKNE",
-        "filename": "MCCKNE.html"
+        "filename": "MCCKNE.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 151
     },
     {
-        "Name": "MESA VERDE ICE PROCESSING CENTER",
+        "Name": "Mesa Verde Ice Processing Center",
         "City": "Bakersfield",
         "State": "CA",
         "Zip": "93301",
         "DETLOC": "CACFMES",
-        "filename": "CACFMES.html"
+        "filename": "CACFMES.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 327
     },
     {
-        "Name": "MIAMI CORRECTIONAL CENTER",
+        "Name": "Miami Correctional Center",
         "City": "Bunkerhill",
         "State": "IN",
         "Zip": "46914",
-        "DETLOC": "MIACORIN",
-        "filename": "MIACORIN.html"
+        "DETLOC": "INMIAMI",
+        "filename": "INMIAMI.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 533
     },
     {
-        "Name": "MIAMI FEDERAL DETENTION",
+        "Name": "Miami Federal Detention",
         "City": "Miami",
         "State": "FL",
         "Zip": "33132",
         "DETLOC": "BOPMIM",
-        "filename": "BOPMIM.html"
+        "filename": "BOPMIM.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 459
     },
     {
-        "Name": "MIAMI STAGING FACILITY",
+        "Name": "Miami Staging Facility",
         "City": "Miami",
         "State": "FL",
         "Zip": "33101",
         "DETLOC": "MSF",
-        "filename": "MSF.html"
+        "filename": "MSF.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 18
     },
     {
-        "Name": "MIGRANT OPS CENTER MAIN A",
+        "Name": "Midwest Regional Reception Center",
+        "City": "Leavenworth",
+        "State": "KS",
+        "Zip": "66048",
+        "DETLOC": "CCALEKS",
+        "filename": "CCALEKS.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 7
+    },
+    {
+        "Name": "Migrant Ops Center Main A",
         "City": "Fpo",
         "State": "FL",
         "Zip": "34009",
         "DETLOC": "GTMOACU",
-        "filename": "GTMOACU.html"
+        "filename": "GTMOACU.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 14
     },
     {
-        "Name": "MILLER COUNTY JAIL",
+        "Name": "Miller County Jail",
         "City": "Texarkana",
         "State": "AR",
         "Zip": "71854",
         "DETLOC": "MILLRAR",
-        "filename": "MILLRAR.html"
+        "filename": "MILLRAR.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 6
     },
     {
-        "Name": "MINNEHAHA COUNTY JAIL",
-        "City": "Sioux Falls",
-        "State": "SD",
-        "Zip": "57104",
-        "DETLOC": "MINNESD",
-        "filename": "MINNESD.html"
-    },
-    {
-        "Name": "MINNICASIA DETENTION CENTER",
+        "Name": "Minicassia Detention Center",
         "City": "Burley",
         "State": "ID",
         "Zip": "83318",
         "DETLOC": "MINICID",
-        "filename": "MINICID.html"
+        "filename": "MINICID.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 3
     },
     {
-        "Name": "MONROE COUNTY DETENTION-DORM",
+        "Name": "Minnehaha County Jail",
+        "City": "Sioux Falls",
+        "State": "SD",
+        "Zip": "57104",
+        "DETLOC": "MINNESD",
+        "filename": "MINNESD.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 3
+    },
+    {
+        "Name": "Monroe County Detention-Dorm",
         "City": "Monroe",
         "State": "MI",
         "Zip": "48161",
         "DETLOC": "MONROMI",
-        "filename": "MONROMI.html"
+        "filename": "MONROMI.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 116
     },
     {
-        "Name": "MONTGOMERY COUNTY JAIL",
+        "Name": "Montgomery County Jail",
         "City": "Fonda",
         "State": "NY",
         "Zip": "12068",
         "DETLOC": "MONTGNY",
-        "filename": "MONTGNY.html"
+        "filename": "MONTGNY.html",
+        "LatestUpdate": "2025-12-26",
+        "CurrentIntervalADP": 7
     },
     {
-        "Name": "MONTGOMERY ICE PROCESSING CENTER",
+        "Name": "Montgomery Ice Processing Center",
         "City": "Conroe",
         "State": "TX",
         "Zip": "77301",
         "DETLOC": "MTGPCTX",
-        "filename": "MTGPCTX.html"
+        "filename": "MTGPCTX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1229
     },
     {
-        "Name": "MOSHANNON VALLEY PROCESSING CENTER",
+        "Name": "Moshannon Valley Processing Center",
         "City": "Philipsburg",
         "State": "PA",
         "Zip": "16866",
         "DETLOC": "MSVPCPA",
-        "filename": "MSVPCPA.html"
+        "filename": "MSVPCPA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1622
     },
     {
-        "Name": "MUSCATINE COUNTY JAIL",
+        "Name": "Muscatine County Jail",
         "City": "Muscatine",
         "State": "IA",
         "Zip": "52761",
         "DETLOC": "MUSCAIA",
-        "filename": "MUSCAIA.html"
+        "filename": "MUSCAIA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 11
     },
     {
-        "Name": "NASSAU COUNTY CORRECTIONAL CENTER",
+        "Name": "Nassau County Correctional Center",
         "City": "East Meadow",
         "State": "NY",
         "Zip": "11554",
         "DETLOC": "NASSANY",
-        "filename": "NASSANY.html"
+        "filename": "NASSANY.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 20
     },
     {
-        "Name": "NATRONA COUNTY JAIL",
+        "Name": "Natrona County Jail",
         "City": "Casper",
         "State": "WY",
         "Zip": "82601",
         "DETLOC": "NATROWY",
-        "filename": "NATROWY.html"
+        "filename": "NATROWY.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 5
     },
     {
-        "Name": "NELSON COLEMAN CORRECTION",
+        "Name": "Nelson Coleman Correction",
         "City": "Killona",
         "State": "LA",
         "Zip": "70057",
         "DETLOC": "NLSCOLA",
-        "filename": "NLSCOLA.html"
+        "filename": "NLSCOLA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 3
     },
     {
-        "Name": "NEVADA SOUTHERN DETENTION CENTER",
+        "Name": "Nevada Southern Detention Center",
         "City": "Pahrump",
         "State": "NV",
         "Zip": "89060",
         "DETLOC": "NVSDCNV",
-        "filename": "NVSDCNV.html"
+        "filename": "NVSDCNV.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 484
     },
     {
-        "Name": "NEW HANOVER COUNTY JAIL",
+        "Name": "New Hanover County Jail",
         "City": "Castle Hayne",
         "State": "NC",
         "Zip": "28429",
         "DETLOC": "NWHNVNC",
-        "filename": "NWHNVNC.html"
+        "filename": "NWHNVNC.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 5
     },
     {
-        "Name": "NIAGARA COUNTY JAIL",
+        "Name": "Niagara County Jail",
         "City": "Lockport",
         "State": "NY",
         "Zip": "14094",
         "DETLOC": "NIAGANY",
-        "filename": "NIAGANY.html"
+        "filename": "NIAGANY.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 4
     },
     {
-        "Name": "NORTH CENTRAL REGIONAL JAIL",
-        "City": "GREENWOOD",
+        "Name": "North Central Regional Jail",
+        "City": "Greenwood",
         "State": "WV",
         "Zip": "26415",
         "DETLOC": "WVNCENT",
-        "filename": "WVNCENT.html"
+        "filename": "WVNCENT.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 4
     },
     {
-        "Name": "NORTH LAKE CORRECTIONAL F",
+        "Name": "North Lake Correctional Facility",
         "City": "Baldwin",
         "State": "MI",
         "Zip": "49304",
         "DETLOC": "NRLKCMI",
-        "filename": "NRLKCMI.html"
+        "filename": "NRLKCMI.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1390
     },
     {
-        "Name": "NORTHEAST OHIO CORRECTIONAL CENTER",
+        "Name": "Northeast Ohio Correctional Center",
         "City": "Youngstown",
         "State": "OH",
         "Zip": "44505",
         "DETLOC": "CCANOOH",
-        "filename": "CCANOOH.html"
+        "filename": "CCANOOH.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 176
     },
     {
-        "Name": "NORTHERN REGIONAL JAIL",
+        "Name": "Northern Regional Jail",
         "City": "Moundsville",
         "State": "WV",
         "Zip": "26041",
         "DETLOC": "WVNORTH",
-        "filename": "WVNORTH.html"
+        "filename": "WVNORTH.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 44
     },
     {
-        "Name": "NORTHWEST ICE PROCESSING CENTER",
+        "Name": "Northwest Ice Processsing Center",
         "City": "Tacoma",
         "State": "WA",
         "Zip": "98421",
         "DETLOC": "CSCNWWA",
-        "filename": "CSCNWWA.html"
+        "filename": "CSCNWWA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1103
     },
     {
-        "Name": "NORTHWEST REGIONAL CORRECTIONS CENTER",
+        "Name": "Northwest Regional Corrections Center",
         "City": "Crookston",
         "State": "MN",
         "Zip": "56716",
         "DETLOC": "NWRCCMN",
-        "filename": "NWRCCMN.html"
+        "filename": "NWRCCMN.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 10
     },
     {
-        "Name": "NORTHWEST STATE CORRECTIONAL CENTER",
+        "Name": "Northwest State Correctional Center",
         "City": "Swanton",
         "State": "VT",
         "Zip": "05488",
         "DETLOC": "VTSTALB",
-        "filename": "VTSTALB.html"
+        "filename": "VTSTALB.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 8
     },
     {
-        "Name": "NORTHWESTERN REGIONAL JUVENILE DETENTION CENTER",
+        "Name": "Northwestern Regional Juvenile Detention Center",
         "City": "Winchester",
         "State": "VA",
         "Zip": "22603",
         "DETLOC": "NRJDCVA",
-        "filename": "NRJDCVA.html"
+        "filename": "NRJDCVA.html",
+        "LatestUpdate": "2025-06-23",
+        "CurrentIntervalADP": 61
     },
     {
-        "Name": "OLDHAM COUNTY DETENTION CENTER",
+        "Name": "Oldham County Detention Center",
         "City": "La Grange",
         "State": "KY",
         "Zip": "40031",
         "DETLOC": "OLDHAKY",
-        "filename": "OLDHAKY.html"
+        "filename": "OLDHAKY.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 144
     },
     {
-        "Name": "ORANGE COUNTY JAIL (FL)",
+        "Name": "Orange County Jail (Fl)",
         "City": "Orlando",
         "State": "FL",
         "Zip": "32839",
         "DETLOC": "ORANGFL",
-        "filename": "ORANGFL.html"
+        "filename": "ORANGFL.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 25
     },
     {
-        "Name": "ORANGE COUNTY JAIL (NY)",
+        "Name": "Orange County Jail (Ny)",
         "City": "Goshen",
         "State": "NY",
         "Zip": "10924",
         "DETLOC": "ORANGNY",
-        "filename": "ORANGNY.html"
+        "filename": "ORANGNY.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 128
     },
     {
-        "Name": "OTAY MESA DETENTION CENTER",
+        "Name": "Otay Mesa Detention Center",
         "City": "San Diego",
         "State": "CA",
         "Zip": "92154",
         "DETLOC": "CCASDCA",
-        "filename": "CCASDCA.html"
+        "filename": "CCASDCA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1171
     },
     {
-        "Name": "OTERO COUNTY PROCESSING CENTER",
+        "Name": "Otero County Processing Center",
         "City": "Chaparral",
         "State": "NM",
         "Zip": "88081",
         "DETLOC": "OTRPCNM",
-        "filename": "OTRPCNM.html"
+        "filename": "OTRPCNM.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 803
     },
     {
-        "Name": "OZARK COUNTY SHERIFF'S OFFICE",
+        "Name": "Ozark County Sheriff's Office",
         "City": "Gainesville",
         "State": "MO",
         "Zip": "65655",
         "DETLOC": "OZARKMO",
-        "filename": "OZARKMO.html"
+        "filename": "OZARKMO.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 24
     },
     {
-        "Name": "PENNINGTON COUNTY JAIL (SOUTH DAKOTA)",
+        "Name": "Pennington County Jail (South Dakota)",
         "City": "Rapid City",
         "State": "SD",
         "Zip": "57701",
         "DETLOC": "PENNISD",
-        "filename": "PENNISD.html"
+        "filename": "PENNISD.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 5
     },
     {
-        "Name": "PHELPS COUNTY JAIL (MO)",
+        "Name": "Phelps County Jail (Mo)",
         "City": "Rolla",
         "State": "MO",
         "Zip": "65401",
         "DETLOC": "PHELPMO",
-        "filename": "PHELPMO.html"
+        "filename": "PHELPMO.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 11
     },
     {
-        "Name": "PHELPS COUNTY JAIL (NE)",
+        "Name": "Phelps County Jail (Ne)",
         "City": "Holdrege",
         "State": "NE",
         "Zip": "68949",
         "DETLOC": "PHELPNE",
-        "filename": "PHELPNE.html"
+        "filename": "PHELPNE.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 27
     },
     {
-        "Name": "PICKENS COUNTY DETENTION CENTER",
+        "Name": "Pickens County Detention Center",
         "City": "Carrollton",
         "State": "AL",
         "Zip": "35447",
         "DETLOC": "PCKNSAL",
-        "filename": "PCKNSAL.html"
+        "filename": "PCKNSAL.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 46
     },
     {
-        "Name": "PIKE COUNTY JAIL",
+        "Name": "Pike County Jail",
         "City": "Lords Valley",
         "State": "PA",
         "Zip": "18428",
         "DETLOC": "PIKCOPA",
-        "filename": "PIKCOPA.html"
+        "filename": "PIKCOPA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 229
     },
     {
-        "Name": "PINE PRAIRIE ICE PROCESSING CENTER",
+        "Name": "Pine Prairie Ice Processing Center",
         "City": "Pine Prairie",
         "State": "LA",
         "Zip": "70576",
         "DETLOC": "PINEPLA",
-        "filename": "PINEPLA.html"
+        "filename": "PINEPLA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 789
     },
     {
-        "Name": "PINELLAS COUNTY JAIL",
+        "Name": "Pinellas County Jail",
         "City": "Clearwater",
         "State": "FL",
         "Zip": "33762",
         "DETLOC": "PINELFL",
-        "filename": "PINELFL.html"
+        "filename": "PINELFL.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 26
     },
     {
-        "Name": "PLATTE COUNTY JAIL",
+        "Name": "Platte County Jail",
         "City": "Wheatland",
         "State": "WY",
         "Zip": "82201",
         "DETLOC": "PLATTWY",
-        "filename": "PLATTWY.html"
+        "filename": "PLATTWY.html",
+        "LatestUpdate": "2025-12-26",
+        "CurrentIntervalADP": 2
     },
     {
-        "Name": "PLYMOUTH COUNTY CORRECTIONAL FACILITY",
+        "Name": "Plymouth County Correctional Facility",
         "City": "Plymouth",
         "State": "MA",
         "Zip": "02360",
         "DETLOC": "PLYMOMA",
-        "filename": "PLYMOMA.html"
+        "filename": "PLYMOMA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 470
     },
     {
-        "Name": "POLK COUNTY JAIL (FL)",
+        "Name": "Polk County Jail",
         "City": "Bartow",
         "State": "FL",
         "Zip": "33830",
         "DETLOC": "POLKJFL",
-        "filename": "POLKJFL.html"
+        "filename": "POLKJFL.html",
+        "LatestUpdate": "2025-11-10",
+        "CurrentIntervalADP": 1
     },
     {
-        "Name": "POLK COUNTY JAIL (IA)",
+        "Name": "Polk County Jail",
         "City": "Des Moines",
         "State": "IA",
         "Zip": "50313",
         "DETLOC": "POLKJIA",
-        "filename": "POLKJIA.html"
+        "filename": "POLKJIA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 55
     },
     {
-        "Name": "PORT ISABEL SPC",
+        "Name": "Port Isabel Spc",
         "City": "Los Fresnos",
         "State": "TX",
         "Zip": "78566",
         "DETLOC": "PIC",
-        "filename": "PIC.html"
+        "filename": "PIC.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1116
     },
     {
-        "Name": "POTTAWATTAMIE COUNTY JAIL",
+        "Name": "Pottawattamie County Jail",
         "City": "Council Bluffs",
         "State": "IA",
         "Zip": "51501",
         "DETLOC": "POTTAIA",
-        "filename": "POTTAIA.html"
+        "filename": "POTTAIA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 28
     },
     {
-        "Name": "PRAIRIELAND DETENTION CENTER",
+        "Name": "Prairieland Detention Center",
         "City": "Alvarado",
         "State": "TX",
         "Zip": "76009",
         "DETLOC": "PRLDCTX",
-        "filename": "PRLDCTX.html"
+        "filename": "PRLDCTX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 895
     },
     {
-        "Name": "PUTNAM COUNTY SHERIFF",
+        "Name": "Putnam County Sheriff",
         "City": "Cookeville",
         "State": "TN",
         "Zip": "38501",
         "DETLOC": "PUTNMTN",
-        "filename": "PUTNMTN.html"
+        "filename": "PUTNMTN.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 12
     },
     {
-        "Name": "RAPPAHANNOCK REGIONAL JAIL",
+        "Name": "Rappahannock Regional Jail",
         "City": "Stafford",
         "State": "VA",
         "Zip": "22554",
         "DETLOC": "RAPRJVA",
-        "filename": "RAPRJVA.html"
+        "filename": "RAPRJVA.html",
+        "LatestUpdate": "2025-11-10",
+        "CurrentIntervalADP": 1
     },
     {
-        "Name": "RICHWOOD CORRECTIONAL CENTER",
+        "Name": "Richwood Correctional Center",
         "City": "Monroe",
         "State": "LA",
         "Zip": "71202",
         "DETLOC": "RWCCMLA",
-        "filename": "RWCCMLA.html"
+        "filename": "RWCCMLA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 926
     },
     {
-        "Name": "RIO GRANDE DETENTION CENTER",
+        "Name": "Rio Grande Detention Center",
         "City": "Laredo",
         "State": "TX",
         "Zip": "78046",
         "DETLOC": "RGRNDTX",
-        "filename": "RGRNDTX.html"
+        "filename": "RGRNDTX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 622
     },
     {
-        "Name": "RIVER CORRECTIONAL CENTER",
+        "Name": "River Correctional Center",
         "City": "Ferriday",
         "State": "LA",
         "Zip": "71334",
         "DETLOC": "RVRCCLA",
-        "filename": "RVRCCLA.html"
+        "filename": "RVRCCLA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 488
     },
     {
-        "Name": "RIVERSIDE REGIONAL JAIL",
+        "Name": "Riverside Regional Jail",
         "City": "Hopewell",
         "State": "VA",
         "Zip": "23860",
         "DETLOC": "RSREGVA",
-        "filename": "RSREGVA.html"
+        "filename": "RSREGVA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 30
     },
     {
-        "Name": "ROANOKE CITY JAIL",
+        "Name": "Roanoke City Jail",
         "City": "Roanoke",
         "State": "VA",
         "Zip": "24016",
         "DETLOC": "RONKEVA",
-        "filename": "RONKEVA.html"
+        "filename": "RONKEVA.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 2
     },
     {
-        "Name": "ROBERT A DEYTON DETENTION FACILITY",
+        "Name": "Robert A Deyton Detention Facility",
         "City": "Lovejoy",
         "State": "GA",
         "Zip": "30250",
         "DETLOC": "RADDFGA",
-        "filename": "RADDFGA.html"
+        "filename": "RADDFGA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 26
     },
     {
-        "Name": "ROCKINGHAM COUNTY JAIL",
+        "Name": "Rockingham County Jail",
         "City": "Harrisonburg",
         "State": "VA",
         "Zip": "22801",
         "DETLOC": "ROCKIVA",
-        "filename": "ROCKIVA.html"
+        "filename": "ROCKIVA.html",
+        "LatestUpdate": "2026-01-22",
+        "CurrentIntervalADP": 1
     },
     {
-        "Name": "SAIPAN DEPARTMENT OF CORRECTIONS (SUSUPE)",
+        "Name": "Saipan Department Of Corrections (Susupe)",
         "City": "Saipan",
         "State": "MP",
         "Zip": "96950",
         "DETLOC": "MPSIPAN",
-        "filename": "MPSIPAN.html"
+        "filename": "MPSIPAN.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 17
     },
     {
-        "Name": "SALT LAKE COUNTY METRO JAIL",
+        "Name": "Salt Lake County Metro Jail",
         "City": "Salt Lake City",
         "State": "UT",
         "Zip": "84119",
         "DETLOC": "SLSLCUT",
-        "filename": "SLSLCUT.html"
+        "filename": "SLSLCUT.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1
     },
     {
-        "Name": "SAN DIEGO DISTRICT STAGING",
+        "Name": "San Diego District Staging",
         "City": "San Diego",
         "State": "CA",
         "Zip": "92101",
         "DETLOC": "SNDHOLD",
-        "filename": "SNDHOLD.html"
+        "filename": "SNDHOLD.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 7
     },
     {
-        "Name": "SAN JUAN STAGING",
+        "Name": "San Juan Staging",
         "City": "Guaynabo",
         "State": "PR",
         "Zip": "00965",
         "DETLOC": "SJS",
-        "filename": "SJS.html"
+        "filename": "SJS.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 12
     },
     {
-        "Name": "SAN LUIS REGIONAL DETENTION CENTER",
+        "Name": "San Luis Regional Detention Center",
         "City": "San Luis",
         "State": "AZ",
         "Zip": "85349",
         "DETLOC": "SLRDCAZ",
-        "filename": "SLRDCAZ.html"
+        "filename": "SLRDCAZ.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 180
     },
     {
-        "Name": "SARASOTA COUNTY JAIL",
+        "Name": "Sarasota County Jail",
         "City": "Sarasota",
         "State": "FL",
         "Zip": "34237",
         "DETLOC": "SARASFL",
-        "filename": "SARASFL.html"
+        "filename": "SARASFL.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 1
     },
     {
-        "Name": "SARPY COUNTY JAIL",
+        "Name": "Sarpy County Jail",
         "City": "Papillion",
         "State": "NE",
         "Zip": "68046",
         "DETLOC": "SARPYNE",
-        "filename": "SARPYNE.html"
+        "filename": "SARPYNE.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 20
     },
     {
-        "Name": "SAUK COUNTY SHERIFF",
+        "Name": "Sauk County Sheriff",
         "City": "Baraboo",
         "State": "WI",
         "Zip": "53913",
-        "DETLOC": "SAUKWI",
-        "filename": "SAUKWI.html"
+        "DETLOC": "SAUKCWI",
+        "filename": "SAUKCWI.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 10
     },
     {
-        "Name": "SCOTT COUNTY DET. FACILITY",
+        "Name": "Scott County Det. Facility",
         "City": "Davenport",
         "State": "IA",
         "Zip": "52801",
         "DETLOC": "SCOTTIA",
-        "filename": "SCOTTIA.html"
+        "filename": "SCOTTIA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 2
     },
     {
-        "Name": "SEBASTIAN COUNTY DETENTION CENTER",
+        "Name": "Sebastian County Detention Center",
         "City": "Fort Smith",
         "State": "AR",
         "Zip": "72901",
         "DETLOC": "SEBASAR",
-        "filename": "SEBASAR.html"
+        "filename": "SEBASAR.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 1
     },
     {
-        "Name": "SENECA COUNTY JAIL",
+        "Name": "Seneca County Jail",
         "City": "Tiffin",
         "State": "OH",
         "Zip": "44883",
         "DETLOC": "SENECOH",
-        "filename": "SENECOH.html"
+        "filename": "SENECOH.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 58
     },
     {
-        "Name": "SHERBURNE COUNTY JAIL",
+        "Name": "Sherburne County Jail",
         "City": "Elk River",
         "State": "MN",
         "Zip": "55330",
         "DETLOC": "SHERBMN",
-        "filename": "SHERBMN.html"
+        "filename": "SHERBMN.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 93
     },
     {
-        "Name": "SIOUX COUNTY JAIL",
+        "Name": "Sioux County Jail",
         "City": "Orange City",
         "State": "IA",
         "Zip": "51041",
         "DETLOC": "SIOUXIA",
-        "filename": "SIOUXIA.html"
+        "filename": "SIOUXIA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 11
     },
     {
-        "Name": "SOUTH CENTRAL REGIONAL JAIL",
+        "Name": "South Central Regional Jail",
         "City": "Charleston",
         "State": "WV",
         "Zip": "25309",
         "DETLOC": "WVSCENT",
-        "filename": "WVSCENT.html"
+        "filename": "WVSCENT.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 83
     },
     {
-        "Name": "SOUTHERN REGIONAL",
-        "City": "Beaver",
-        "State": "WV",
-        "Zip": "25813",
-        "DETLOC": "WVSOUTH",
-        "filename": "WVSOUTH.html"
-    },
-    {
-        "Name": "SOUTH LOUISIANA ICE PROCESSING CENTER",
+        "Name": "South Louisiana Ice Processing Center",
         "City": "Basile",
         "State": "LA",
         "Zip": "70515",
         "DETLOC": "BASILLA",
-        "filename": "BASILLA.html"
+        "filename": "BASILLA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 933
     },
     {
-        "Name": "SOUTH TEXAS ICE PROCESSING CENTER",
+        "Name": "South Texas Ice Processing Center",
         "City": "Pearsall",
         "State": "TX",
         "Zip": "78061",
         "DETLOC": "STCDFTX",
-        "filename": "STCDFTX.html"
+        "filename": "STCDFTX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1701
     },
     {
-        "Name": "SOUTHWESTERN REGIONAL JAIL",
-        "City": "HOLDEN",
+        "Name": "Southern Regional",
+        "City": "Beaver",
+        "State": "WV",
+        "Zip": "25813",
+        "DETLOC": "WVSOUTH",
+        "filename": "WVSOUTH.html",
+        "LatestUpdate": "2026-01-22",
+        "CurrentIntervalADP": 1
+    },
+    {
+        "Name": "Southwestern Regional Jail",
+        "City": "Holden",
         "State": "WV",
         "Zip": "25625",
         "DETLOC": "WVSWEST",
-        "filename": "WVSWEST.html"
+        "filename": "WVSWEST.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 13
     },
     {
-        "Name": "ST. CLAIR COUNTY JAIL",
+        "Name": "St. Clair County Jail",
         "City": "Port Huron",
         "State": "MI",
         "Zip": "48060",
         "DETLOC": "STCLAMI",
-        "filename": "STCLAMI.html"
+        "filename": "STCLAMI.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 61
     },
     {
-        "Name": "STE. GENEVIEVE COUNTY SHERIFF/JAIL",
+        "Name": "St. Lucie County Jail",
+        "City": "Fort Pierce",
+        "State": "FL",
+        "Zip": "34945",
+        "DETLOC": "STLUCFL",
+        "filename": "STLUCFL.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1
+    },
+    {
+        "Name": "Ste. Genevieve County Sheriff/Jail",
         "City": "Ste. Genevieve",
         "State": "MO",
         "Zip": "63670",
         "DETLOC": "STGENMO",
-        "filename": "STGENMO.html"
+        "filename": "STGENMO.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 148
     },
     {
-        "Name": "STEWART DETENTION CENTER",
+        "Name": "Stewart Detention Center",
         "City": "Lumpkin",
         "State": "GA",
         "Zip": "31815",
         "DETLOC": "STWRTGA",
-        "filename": "STWRTGA.html"
+        "filename": "STWRTGA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 2063
     },
     {
-        "Name": "STRAFFORD COUNTY CORRECTIONS",
+        "Name": "Strafford County Corrections",
         "City": "Dover",
         "State": "NH",
         "Zip": "03820",
         "DETLOC": "STRAFNH",
-        "filename": "STRAFNH.html"
+        "filename": "STRAFNH.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 123
     },
     {
-        "Name": "SWEETWATER COUNTY JAIL",
+        "Name": "Sweetwater County Jail",
         "City": "Rock Springs",
         "State": "WY",
         "Zip": "82935",
         "DETLOC": "SWEETWY",
-        "filename": "SWEETWY.html"
+        "filename": "SWEETWY.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 14
     },
     {
-        "Name": "T DON HUTTO DETENTION CENTER",
+        "Name": "T Don Hutto Detention Center",
         "City": "Taylor",
         "State": "TX",
         "Zip": "76574",
         "DETLOC": "CCAHUTX",
-        "filename": "CCAHUTX.html"
+        "filename": "CCAHUTX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 421
     },
     {
-        "Name": "TOM GREEN COUNTY JAIL",
+        "Name": "Tom Green County Jail",
         "City": "San Angelo",
         "State": "TX",
         "Zip": "76903",
         "DETLOC": "TGREETX",
-        "filename": "TGREETX.html"
+        "filename": "TGREETX.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 2
     },
     {
-        "Name": "TOOELE COUNTY JAIL",
+        "Name": "Tooele County Jail",
         "City": "Tooele",
         "State": "UT",
         "Zip": "84074",
         "DETLOC": "TOOELUT",
-        "filename": "TOOELUT.html"
+        "filename": "TOOELUT.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 9
     },
     {
-        "Name": "TORRANCE/ESTANCIA, NM",
+        "Name": "Torrance County Detention Facility",
         "City": "Estancia",
         "State": "NM",
         "Zip": "87016",
         "DETLOC": "TOORANM",
-        "filename": "TOORANM.html"
+        "filename": "TOORANM.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 319
     },
     {
-        "Name": "TULSA COUNTY JAIL (DAVID L. MOSS JUSTICE CTR)",
+        "Name": "Tulsa County Jail (David L. Moss Justice Ctr)",
         "City": "Tulsa",
         "State": "OK",
         "Zip": "74103",
         "DETLOC": "TULCOOK",
-        "filename": "TULCOOK.html"
+        "filename": "TULCOOK.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 13
     },
     {
-        "Name": "TURNER GUILFORD KNIGHT (TGK) JAIL",
+        "Name": "Turner Guilford Knight (Tgk) Jail",
         "City": "Miami",
         "State": "FL",
         "Zip": "33166",
         "DETLOC": "TGKJLFL",
-        "filename": "TGKJLFL.html"
+        "filename": "TGKJLFL.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 10
     },
     {
-        "Name": "TWO BRIDGES REGIONAL JAIL",
+        "Name": "Two Bridges Regional Jail",
         "City": "Wiscasset",
         "State": "ME",
         "Zip": "04578",
         "DETLOC": "TBRJLME",
-        "filename": "TBRJLME.html"
+        "filename": "TBRJLME.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 4
     },
     {
-        "Name": "UINTA COUNTY JAIL",
+        "Name": "Uinta County Jail",
         "City": "Evanston",
         "State": "WY",
         "Zip": "82930",
         "DETLOC": "UINTAWY",
-        "filename": "UINTAWY.html"
+        "filename": "UINTAWY.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 37
     },
     {
-        "Name": "VAL VERDE CORRECTIONAL FACILITY",
+        "Name": "Val Verde Correctional Facility",
         "City": "Del Rio",
         "State": "TX",
         "Zip": "78840",
         "DETLOC": "VALVETX",
-        "filename": "VALVETX.html"
+        "filename": "VALVETX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 3
     },
     {
-        "Name": "VICTORIA COUNTY JAIL",
+        "Name": "Victoria County Jail",
         "City": "Victoria",
         "State": "TX",
         "Zip": "77901",
         "DETLOC": "VICTOTX",
-        "filename": "VICTOTX.html"
+        "filename": "VICTOTX.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 14
     },
     {
-        "Name": "WALTON COUNTY JAIL",
+        "Name": "Walton County Jail",
         "City": "Defuniak Springs",
         "State": "FL",
         "Zip": "32433",
         "DETLOC": "WLTSOFL",
-        "filename": "WLTSOFL.html"
+        "filename": "WLTSOFL.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 27
     },
     {
-        "Name": "WARD COUNTY JAIL",
+        "Name": "Ward County Jail",
         "City": "Minot",
         "State": "ND",
         "Zip": "58702",
         "DETLOC": "WARDCND",
-        "filename": "WARDCND.html"
+        "filename": "WARDCND.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 3
     },
     {
-        "Name": "WASHINGTON COUNTY DETENTION CENTER",
+        "Name": "Washington County Detention Center",
         "City": "Fayetteville",
         "State": "AR",
         "Zip": "72701",
         "DETLOC": "WASHIAR",
-        "filename": "WASHIAR.html"
+        "filename": "WASHIAR.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 4
     },
     {
-        "Name": "WASHINGTON COUNTY JAIL (PURGATORY CORRECTIONAL FACILITY)",
+        "Name": "Washington County Jail (Purgatory Correctional Facility)",
         "City": "Hurricane",
         "State": "UT",
         "Zip": "84737",
         "DETLOC": "WASHCUT",
-        "filename": "WASHCUT.html"
+        "filename": "WASHCUT.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 12
     },
     {
-        "Name": "WASHOE COUNTY JAIL",
+        "Name": "Washoe County Jail",
         "City": "Reno",
         "State": "NV",
         "Zip": "89506",
         "DETLOC": "WASHONV",
-        "filename": "WASHONV.html"
+        "filename": "WASHONV.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 45
     },
     {
-        "Name": "WAUKESHA COUNTY JAIL",
+        "Name": "Waukesha County Jail",
         "City": "Waukesha",
         "State": "WI",
         "Zip": "53186",
         "DETLOC": "WAUKEWI",
-        "filename": "WAUKEWI.html"
+        "filename": "WAUKEWI.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1
     },
     {
-        "Name": "WEBB COUNTY DETENTION CENTER (CCA)",
+        "Name": "Webb County Detention Center (Cca)",
         "City": "Laredo",
         "State": "TX",
         "Zip": "78041",
         "DETLOC": "WEBDCTX",
-        "filename": "WEBDCTX.html"
+        "filename": "WEBDCTX.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 374
     },
     {
-        "Name": "WEBER COUNTY JAIL",
+        "Name": "Weber County Jail",
         "City": "Ogden",
         "State": "UT",
         "Zip": "84404",
         "DETLOC": "WEBERUT",
-        "filename": "WEBERUT.html"
+        "filename": "WEBERUT.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 9
     },
     {
-        "Name": "WESTERN REGIONAL JAIL AND CORRECTIONAL FACILITY",
+        "Name": "Western Regional Jail And Correctional Facility",
         "City": "Barboursville",
         "State": "WV",
         "Zip": "25504",
         "DETLOC": "WVWESTR",
-        "filename": "WVWESTR.html"
+        "filename": "WVWESTR.html",
+        "LatestUpdate": "2026-02-05",
+        "CurrentIntervalADP": 57
     },
     {
-        "Name": "WESTERN TENNESSEE DETENTION FACILITY",
+        "Name": "Western Tennessee Detention Facility",
         "City": "Mason",
         "State": "TN",
         "Zip": "38049",
         "DETLOC": "TNWESDF",
-        "filename": "TNWESDF.html"
+        "filename": "TNWESDF.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 396
     },
     {
-        "Name": "WESTERN VIRGINIA REGIONAL JAIL",
+        "Name": "Western Virginia Regional Jail",
         "City": "Salem",
         "State": "VA",
         "Zip": "24153",
         "DETLOC": "WVIRGVA",
-        "filename": "WVIRGVA.html"
+        "filename": "WVIRGVA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 3
     },
     {
-        "Name": "WINN CORRECTIONAL CENTER",
+        "Name": "Winn Correctional Center",
         "City": "Winnfield",
         "State": "LA",
         "Zip": "71483",
         "DETLOC": "LAWINCI",
-        "filename": "LAWINCI.html"
+        "filename": "LAWINCI.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 1577
     },
     {
-        "Name": "WOODBURY COUNTY JAIL",
+        "Name": "Woodbury County Jail",
         "City": "Sioux City",
         "State": "IA",
         "Zip": "51101",
         "DETLOC": "WOODBIA",
-        "filename": "WOODBIA.html"
+        "filename": "WOODBIA.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 63
     },
     {
-        "Name": "WYATT DETENTION CENTER",
+        "Name": "Wyatt Detention Center",
         "City": "Central Falls",
         "State": "RI",
         "Zip": "02863",
         "DETLOC": "WYATTRI",
-        "filename": "WYATTRI.html"
+        "filename": "WYATTRI.html",
+        "LatestUpdate": "2026-04-02",
+        "CurrentIntervalADP": 102
     }
 ]
